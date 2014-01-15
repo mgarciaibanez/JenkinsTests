@@ -616,6 +616,7 @@
 				GCC_PREFIX_HEADER = "GuildBrowser/GuildBrowser-Prefix.pch";
 				INFOPLIST_FILE = "GuildBrowser/GuildBrowser-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "E328CCE7-24CD-486B-B74D-556D4FF1CEE6";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -627,6 +628,7 @@
 				GCC_PREFIX_HEADER = "GuildBrowser/GuildBrowser-Prefix.pch";
 				INFOPLIST_FILE = "GuildBrowser/GuildBrowser-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "E328CCE7-24CD-486B-B74D-556D4FF1CEE6";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
